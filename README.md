@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! 👋 I'm ellisdanielnkkfaole932
 
-<!--
-**ellisdanielnkkfaole932/ellisdanielnkkfaole932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎳 🎯 🎮 🛼 A student of cloud computing 🎳 🎯 🎮 🛼
 
-Here are some ideas to get you started:
+## About Me
+💻 🏑 A developer in algorithms 💻 🏑
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+🥁 🎷 🏒 🎣 A developer in blockchain 🥁 🎷 🏒 🎣
+
+### Fun Facts
+🎯 🎤 Enthusiastic about databases 🎯 🎤
+
+---
+🚴 🎮 🎵 🚴 🚵 Thanks for visiting my profile! 🏄 🎯 🎭 💻 ✨
